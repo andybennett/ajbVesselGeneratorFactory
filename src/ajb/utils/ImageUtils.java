@@ -15,7 +15,6 @@ import java.util.List;
 import javax.imageio.ImageIO;
 
 import ajb.domain.Pixel;
-import ajb.random.RandomColor;
 
 public class ImageUtils {
 
